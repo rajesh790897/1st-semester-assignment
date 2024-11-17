@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("Assignment No: 20");
     int num1, num2, max, res;
 
     printf("Enter two numbers: ");
