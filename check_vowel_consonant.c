@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    printf("Assignment No: 12");
     char letter;
 
     printf("Enter a letter: ");
